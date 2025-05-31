@@ -1,3 +1,4 @@
+
 <!-- README.md -->
 
 <h1 align="center">Hi, I'm Anjali Agarwal 👋</h1>
@@ -99,3 +100,21 @@ I’m passionate about **literary arts and public speaking**, and I love **trave
 
 > “Striving to learn, build, and inspire — one code at a time.”
 
+
+## Hi there 👋
+
+<!--
+**anjali-codes2305/anjali-codes2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
