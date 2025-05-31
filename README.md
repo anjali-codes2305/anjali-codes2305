@@ -5,15 +5,18 @@
 <h3 align="center">Aspiring Software Engineer | Java, C++, Frontend Developer | Hackathon Enthusiast | Public Speaker | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=40&lines=Tech+Enthusiast;Full+Stack+Web+Dev+Aspirant;AI+and+DSA+Learner" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=40&lines=Aspiring+Software+Engineer;Hackathon+Enthusiast;Innovation+Catalyst" alt="Typing animation" />
 </p>
+
 
 ---
 
 ### 👩‍💻 About Me
 
 I'm a **3rd-year Computer Science undergrad** at Anand International College of Engineering (2023–2027).  
+
 Passionate about programming in **Java, C++, C**, and building interactive **frontend projects** with HTML, CSS, JavaScript & Bootstrap.  
+
 Driven by innovation, I love to participate in hackathons and tech events, sharpening my skills and learning continuously.
 
 ---
@@ -83,19 +86,6 @@ Driven by innovation, I love to participate in hackathons and tech events, sharp
 ### 🎉 Fun Fact
 
 I’m passionate about **literary arts and public speaking**, and I love **traveling** and spending quality time with my family and friends!
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali-codes2305&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-codes2305&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 ---
 
