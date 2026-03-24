@@ -1,5 +1,5 @@
 <h1 align="center">Anjali Agarwal</h1>
-<h2 align="center">Software Developer | MERN Stack | AI Systems </h2>
+<h1 align="center">Software Developer | MERN Stack | AI Systems </h1>
 
 <p align="center">
 <p align="center">
