@@ -1,97 +1,109 @@
-
-<!-- README.md -->
-
-<h1 align="center">Hi, I'm Anjali Agarwal 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Java, C++, Frontend Developer | Hackathon Enthusiast | Public Speaker | Lifelong Learner 🚀</h3>
+<h1 align="center">Anjali Agarwal</h1>
+<h2 align="center">Software Developer | MERN Stack | AI Systems </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=40&lines=Aspiring+Software+Engineer;Hackathon+Enthusiast;Innovation+Catalyst" alt="Typing animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=4A90E2&center=true&vCenter=true&width=750&lines=Software+Developer;Scalable+Systems+Builder;Backend+%26+API+Architect;AI-Driven+Problem+Solver" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</p>
 
 ---
 
-### 👩‍💻 About Me
+## Profile
 
-I'm a **3rd-year Computer Science undergrad** at Anand International College of Engineering (2023–2027).  
-
-Passionate about programming in **Java, C++, C**, and building interactive **frontend projects** with HTML, CSS, JavaScript & Bootstrap.  
-
-Driven by innovation, I love to participate in hackathons and tech events, sharpening my skills and learning continuously.
+Full-Stack Developer specializing in MERN stack with experience in building scalable systems and AI-integrated platforms. Strong foundation in Data Structures & Algorithms, REST APIs, and system design fundamentals. Proven performance in national-level hackathons and real-world project development.
 
 ---
 
-### 🛠️ Skills & Tools
+## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,react,next,nodejs,express,mongodb,tailwind,git,github,linux,vscode&perline=7" />
+</p>
 
 ---
 
-### 🚀 Projects
+## Projects
 
-- **Portfolio Website**  
-  Created a personal website using HTML, CSS, JavaScript, and Bootstrap to showcase my work.
+### FleetFlow – Fleet Management System
+- Full-stack logistics platform using MERN and TypeScript  
+- Designed scalable backend and real-time dashboards  
 
-- **QUIZIQ**  
-  A quiz platform for schools, colleges, and professionals to create and attend quizzes.
+### Ayojan AI – AI Event Management Platform
+- AI-powered system for event planning and automation  
+- Integrated intelligent workflows using APIs  
 
-- **To-Do List App**  
-  A task management app with scheduling and reminder features.
+### CareQueue – Healthcare Queue System
+- Optimized patient queue and appointment handling  
+- Improved efficiency in healthcare workflows  
 
----
-
-### 🎓 Certifications
-
-- Java Programming  
-- C++ Fundamentals  
-- Data Structures & Algorithms (DSA)  
-- HTML & Web Development
+### QuizIQ – Online Quiz Platform
+- Dynamic quiz system with real-time scoring  
+- Interactive UI with performance tracking  
 
 ---
 
-### 🎯 Learning Goals
+## Achievements
 
-- Deep dive into **Full Stack Web Development** and build real-world apps  
-- Master **Data Structures & Algorithms in Java**  
-- Explore and apply **AI tools** such as ChatGPT, Gemini, Lovable, and Claude
-
----
-
-### 🏆 Hackathons & Tech Events
-
-- Google Girl Hackathon  
-- Flipkart Runway  
-- Smart India Hackathon  
-- Microsoft Power BI & AI Summit  
-- Google Women Techmakers IWD 2025  
-- WITConf 2025  
+- Winner – Smart India Hackathon (Internal Round)  
+- Top 5 Finalist – Odoo Hackathon  
+- Top 31 out of 2800+ teams – Tata Innovent  
+- Samsung Solve for Tomorrow – Semifinalist  
+- Flipkart GRiD 7.0 – Shortlisted  
+- Google Summer of Code – Contributor  
 
 ---
 
-### 📫 Connect with Me
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali230705/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjali-codes2305&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=anjali-codes2305&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-codes2305&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-codes2305&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🎉 Fun Fact
+## Experience
 
-I’m passionate about **literary arts and public speaking**, and I love **traveling** and spending quality time with my family and friends!
+Full-Stack Developer Trainee – SmartBridge  
+- Built end-to-end MERN applications  
+- Worked with REST APIs, authentication, and deployment  
 
 ---
 
-> “Striving to learn, build, and inspire — one code at a time.”
+## Current Focus
 
+- Advanced MERN and Next.js  
+- Data Structures & Algorithms (Java)  
+- AI-powered applications  
+- SDE Internship preparation  
 
+---
 
+## 🌐 Connect with Me
 
+<p align="center">
+  <a href="mailto:anjaliagarwal230705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/anjali230705/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anjali%20Agarwal-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
